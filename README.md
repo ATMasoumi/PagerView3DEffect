@@ -7,7 +7,7 @@ pager view like iTunes paging in SwiftUI
 ## Setup
 
 ```swift
-PagerView3DEffect(selection: $index, data , spacing: 10) { int in
+PagerView3DEffect(selection: $index, items , spacing: 10) { item in
     Rectangle()
         .foregroundColor(.red)
         .cornerRadius(10)
