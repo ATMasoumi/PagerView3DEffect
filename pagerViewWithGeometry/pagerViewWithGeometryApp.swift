@@ -17,8 +17,7 @@ struct pagerViewWithGeometryApp: App {
                 Rectangle()
                     .foregroundColor(.red)
                     .cornerRadius(10)
-                    .frame(width: 100, height: 100, alignment: .center)
-                        
+                    .frame(width: 100, height: 100, alignment: .center)         
             }
         }
     }
