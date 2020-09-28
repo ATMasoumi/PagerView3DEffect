@@ -1,7 +1,7 @@
 # PagerView3DEffect
 ## Info
 pager view like iTunes paging in SwiftUI 
-## Gifs
+## Demo
 ![](gifFile@.gif)
 ![](gifFile1.gif)
 ## Setup
