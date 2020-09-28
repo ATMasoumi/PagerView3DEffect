@@ -14,3 +14,6 @@ PagerView3DEffect(selection: $index, items , spacing: 10) { item in
         .frame(width: 100, height: 100, alignment: .center)         
 }
 ```
+## Contact
+
+[Twitter](https://www.twitter.com/ATMasoumi)
