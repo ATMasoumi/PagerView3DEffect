@@ -1,4 +1,4 @@
-# PagerView3DEffect
+# Pager View with 3DEffect
 ## Info
 pager view like iTunes paging in SwiftUI 
 ## Demo
