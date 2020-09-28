@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="180px" viewBox="0 0 300 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>card copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="299.52" height="179.712" rx="12"></rect>
+    </defs>
+    <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="card-copy">
+            <g id="Mask-Copy">
+                <g id="Visa-Card">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#F2F2F7" xlink:href="#path-1"></use>
+                </g>
+            </g>
+            <g id="Stacked-Group-6" opacity="0.345819382" transform="translate(124.000000, -12.000000)" fill="#015B5D">
+                <g id="Stacked-Group-6-Copy" transform="translate(0.000000, 120.000000)">
+                    <circle id="Oval" opacity="0.0661737351" cx="35" cy="5" r="5"></circle>
+                    <circle id="Oval-Copy-10" opacity="0.3" cx="5" cy="5" r="5"></circle>
+                    <circle id="Oval-Copy-3" opacity="0.5" cx="155" cy="5" r="5"></circle>
+                    <circle id="Oval-Copy-4" opacity="0" cx="125" cy="5" r="5"></circle>
+                    <circle id="Oval-Copy-5" opacity="0.554106213" cx="95" cy="5" r="5"></circle>
+                    <circle id="Oval-Copy-6" opacity="0.3" cx="65" cy="5" r="5"></circle>
+                </g>
+                <g id="Stacked-Group-6-Copy-4" transform="translate(0.000000, 90.000000)">
+                    <circle id="Oval" cx="35" cy="5" r="5"></circle>
+                    <circle id="Oval-Copy-10" opacity="0.0927129836" cx="5" cy="5" r="5"></circle>
+                    <circle id="Oval-Copy-3" cx="155" cy="5" r="5"></circle>
+                    <circle id="Oval-Copy-4" opacity="0.5" cx="125" cy="5" r="5"></circle>
+                    <circle id="Oval-Copy-5" cx="95" cy="5" r="5"></circle>
+                    <circle id="Oval-Copy-6" opacity="0.3" cx="65" cy="5" r="5"></circle>
+                </g>
+                <g id="Stacked-Group-6-Copy-2" transform="translate(0.000000, 60.000000)">
+                    <circle id="Oval" opacity="0.5" cx="35" cy="5" r="5"></circle>
+                    <circle id="Oval-Copy-9" opacity="0" cx="5" cy="5" r="5"></circle>
+                    <circle id="Oval-Copy-3" opacity="0.3" cx="155" cy="5" r="5"></circle>
+                    <circle id="Oval-Copy-4" opacity="0.5" cx="125" cy="5" r="5"></circle>
+                    <circle id="Oval-Copy-5" opacity="0.3" cx="95" cy="5" r="5"></circle>
+                    <circle id="Oval-Copy-6" cx="65" cy="5" r="5"></circle>
+                </g>
+                <g id="Stacked-Group-6-Copy-3" transform="translate(0.000000, 30.000000)">
+                    <circle id="Oval" opacity="0.133928571" cx="35" cy="5" r="5"></circle>
+                    <circle id="Oval-Copy-8" opacity="0" cx="5" cy="5" r="5"></circle>
+                    <circle id="Oval-Copy-3" cx="155" cy="5" r="5"></circle>
+                    <circle id="Oval-Copy-4" opacity="0.5" cx="125" cy="5" r="5"></circle>
+                    <circle id="Oval-Copy-5" cx="95" cy="5" r="5"></circle>
+                    <circle id="Oval-Copy-6" opacity="0.699939546" cx="65" cy="5" r="5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
